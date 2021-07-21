@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(to right, red , orange, green, blue, purple);
+      
+}
+#H1Home1{
+    margin-top: 250px;
+}
+#JoinNowButton{
+    background-color: coral;
+    height: 70px;
+    width: 500px;
+}
